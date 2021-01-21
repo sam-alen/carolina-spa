@@ -70,8 +70,8 @@ body{
 }
 
 .nav-principal {
-    background-image: url(carolina-spa/img/border_horizontal.png),
-                        url(carolina-spa/img/border_horizontal.png);
+    background-image: url(https://github.com/sam-alen/carolina-spa/blob/master/img/border_horizontal.png),
+                        url(https://github.com/sam-alen/carolina-spa/blob/master/img/border_horizontal.png);
     background-repeat: repeat-x;
     background-position: 0px top, 0px bottom;
 }
